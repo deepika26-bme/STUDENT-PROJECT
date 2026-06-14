@@ -24,6 +24,6 @@ Developed as part of the FOSSEE Open Source Hardware Hackathon 2026 conducted by
 ## Team
 Biomedical Engineering Students
 
-## Developed By
-Deepika and team
+## Demo video
+Project demonstration video is included in this repository
 
